@@ -108,4 +108,4 @@ to bring our model closer to reality
 
 ## Acknowledgments
 
-* [ModSimPy](https://github.com/minhkhang1795/ModSimPy) by Allen Downey
+* [ModSimPy](https://github.com/AllenDowney/ModSimPy) by Allen Downey
