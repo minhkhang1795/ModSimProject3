@@ -1,4 +1,4 @@
-# ModSimProject3
+# ODEINT(iana Jones) and the Raiders of the Lost Semicolon
 Inspired by the famous scene in the movie, Indiana Jones and the Raiders of the Lost Arc, we set about to discover the optimal slope needed to slide a mass from the top of a hill to the position of a hapless grave robber, while taking drag and friction into account. We found that a slope of -1.79 gets the mass in question from point A to point B in 1.97 seconds, faster than any other.
 
 ![pic](https://github.com/minhkhang1795/ModSimProject3/blob/master/media/pic.jpg)
